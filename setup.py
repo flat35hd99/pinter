@@ -8,4 +8,5 @@ setup(
     author_email="flat35hd99@gmail.com",
     description="Pick up intersection of grouppair file of curp",
     python_requires=">=3.7",
+    entry_points={"console_scripts": ["pinter = pinter.console:main"]},
 )
