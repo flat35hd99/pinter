@@ -1,5 +1,5 @@
 import argparse
-import pick_intersection as pig
+import pinter as pig
 
 
 def main():
