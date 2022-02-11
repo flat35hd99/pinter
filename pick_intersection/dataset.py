@@ -1,6 +1,3 @@
-import os
-
-
 def load_files(files):
     pairset_list = [read_pairfile(f) for f in files]
     return Dataset(pairset_list)
