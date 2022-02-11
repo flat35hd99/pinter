@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "test"
+        "test", "-v"
     ],
     "python.testing.pytestEnabled": true
 }
